@@ -1,0 +1,6 @@
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\BetterGuestBook\GuestBookLirbrary\bin\Debug\GuestBookLirbrary.dll
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\BetterGuestBook\GuestBookLirbrary\bin\Debug\GuestBookLirbrary.pdb
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\BetterGuestBook\GuestBookLirbrary\obj\Debug\GuestBookLirbrary.csprojAssemblyReference.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\BetterGuestBook\GuestBookLirbrary\obj\Debug\GuestBookLirbrary.csproj.CoreCompileInputs.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\BetterGuestBook\GuestBookLirbrary\obj\Debug\GuestBookLirbrary.dll
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\BetterGuestBook\GuestBookLirbrary\obj\Debug\GuestBookLirbrary.pdb

@@ -1,0 +1,7 @@
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\StaticClassesDemo\ConsoleUi\bin\Debug\ConsoleUi.exe.config
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\StaticClassesDemo\ConsoleUi\bin\Debug\ConsoleUi.exe
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\StaticClassesDemo\ConsoleUi\bin\Debug\ConsoleUi.pdb
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\StaticClassesDemo\ConsoleUi\obj\Debug\ConsoleUi.csprojAssemblyReference.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\StaticClassesDemo\ConsoleUi\obj\Debug\ConsoleUi.csproj.CoreCompileInputs.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\StaticClassesDemo\ConsoleUi\obj\Debug\ConsoleUi.exe
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\StaticClassesDemo\ConsoleUi\obj\Debug\ConsoleUi.pdb

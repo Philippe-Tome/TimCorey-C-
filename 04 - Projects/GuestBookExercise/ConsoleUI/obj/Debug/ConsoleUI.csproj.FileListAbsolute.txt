@@ -1,0 +1,10 @@
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\GuestBookExercise\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\GuestBookExercise\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\GuestBookExercise\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\GuestBookExercise\ConsoleUI\bin\Debug\GuestBookLibrary.dll
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\GuestBookExercise\ConsoleUI\bin\Debug\GuestBookLibrary.pdb
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\GuestBookExercise\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\GuestBookExercise\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\GuestBookExercise\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\GuestBookExercise\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\GuestBookExercise\ConsoleUI\obj\Debug\ConsoleUI.pdb

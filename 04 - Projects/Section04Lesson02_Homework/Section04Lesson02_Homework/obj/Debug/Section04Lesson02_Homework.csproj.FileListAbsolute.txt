@@ -1,0 +1,7 @@
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\Section04Lesson02_Homework\Section04Lesson02_Homework\bin\Debug\Section04Lesson02_Homework.exe.config
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\Section04Lesson02_Homework\Section04Lesson02_Homework\bin\Debug\Section04Lesson02_Homework.exe
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\Section04Lesson02_Homework\Section04Lesson02_Homework\bin\Debug\Section04Lesson02_Homework.pdb
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\Section04Lesson02_Homework\Section04Lesson02_Homework\obj\Debug\Section04Lesson02_Homework.csprojAssemblyReference.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\Section04Lesson02_Homework\Section04Lesson02_Homework\obj\Debug\Section04Lesson02_Homework.csproj.CoreCompileInputs.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\Section04Lesson02_Homework\Section04Lesson02_Homework\obj\Debug\Section04Lesson02_Homework.exe
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\Section04Lesson02_Homework\Section04Lesson02_Homework\obj\Debug\Section04Lesson02_Homework.pdb

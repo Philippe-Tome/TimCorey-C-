@@ -1,0 +1,7 @@
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\02 - Common Syntax\Projects\Module02Lesson03\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\02 - Common Syntax\Projects\Module02Lesson03\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\02 - Common Syntax\Projects\Module02Lesson03\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\02 - Common Syntax\Projects\Module02Lesson03\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\02 - Common Syntax\Projects\Module02Lesson03\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\02 - Common Syntax\Projects\Module02Lesson03\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\02 - Common Syntax\Projects\Module02Lesson03\ConsoleUI\obj\Debug\ConsoleUI.pdb

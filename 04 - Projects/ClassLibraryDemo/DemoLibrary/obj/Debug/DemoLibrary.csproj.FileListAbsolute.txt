@@ -1,0 +1,6 @@
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\ClassLibraryDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\ClassLibraryDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\04 - OOP part 1\Projects\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
