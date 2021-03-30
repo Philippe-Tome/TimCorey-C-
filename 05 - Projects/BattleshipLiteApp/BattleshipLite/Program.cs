@@ -15,11 +15,117 @@ namespace BattleshipLite
         {
             WelcomeMessage();
 
-            PlayerInfoModel player1 = CreatePlayer("Player 1");
-            PlayerInfoModel player2 = CreatePlayer("Player 2");
+            PlayerInfoModel activePlayer = CreatePlayer("Player 1");
+            PlayerInfoModel opponent = CreatePlayer("Player 2");
+
+            PlayerInfoModel winner = null;
+
+            do
+	        {
+                DiplayShotGrid(activePlayer); // Display grid from activePlayer on where they fired
+                
+                RecordPlayerShot(activePlayer, opponent); // Ask the activePlayer for a shot. Determine if valid shot. Determine shot results.
+                
+                bool doesGameContinue = GameLogic.PlayerStillActive(opponent);
+                
+                if (doesGameContinue == true) // If over set activePlayer as the winner. Else, swap positions ( activePlayer to opponent ) // Tuple
+                {
+                    //// Swap using a temp variable:
+                    //PlayerInfoModel tempHolder = opponent;
+                    //opponent = activePlayer;
+                    //activePlayer = tempHolder;
+                    
+                    (activePlayer, opponent) = (opponent, activePlayer); // Tuple: New way of swapping the players, only from C# v7.0
+
+                }
+                else
+                {
+                    winner = activePlayer;
+                }
+
+	        } while (winner == null);
+
+            IdentifyWinner(winner);
 
 
             Console.ReadLine();
+        }
+
+        private static void IdentifyWinner(PlayerInfoModel winner)
+        {
+            Console.WriteLine($"Congratulations to: { winner.UserName } for winning!");
+            Console.WriteLine($"{ winner.UserName } took { GameLogic.GetShotCount(winner)} shots.");
+        }
+
+        private static void RecordPlayerShot(PlayerInfoModel activePlayer, PlayerInfoModel opponent)
+        {
+            bool isValidShot = false;
+            string row = "";
+            int column = 0;
+
+            // Asks for a shot ( we ask for "B2" )
+            // Determine what row and column that is - split it apart
+            // Determine if that is a valid shot
+            // Go back to the beginning if not a valid shot
+            do
+            {
+                string shot = AskForShot();
+                (row, column) = GameLogic.SplitShotIntoRowAndColumn(shot);
+                isValidShot = GameLogic.ValidateShot(activePlayer, row, column);
+
+                if (isValidShot == false)
+                {
+                    Console.WriteLine("Invalid shot location. Please try again.");
+                }
+            } while (isValidShot == false);
+
+            // Determine shot results
+            bool isAHit = GameLogic.IdentifyShotResult(opponent, row, column);
+
+            // Record results
+            GameLogic.MarkShotResult(activePlayer, row, column, isAHit);
+
+        }
+
+        private static string AskForShot()
+        {
+            Console.Write("Please enter your shot selection: ");
+            string output = Console.ReadLine();
+
+            return output;
+        }
+
+        private static void DiplayShotGrid(PlayerInfoModel activePlayer)
+        {
+            string currentRow = activePlayer.ShotGrid[0].SpotLetter;
+
+            foreach (var gridSpot in activePlayer.ShotGrid)
+            {
+                if (gridSpot.SpotLetter != currentRow)
+                {
+                    Console.WriteLine(); // if it's a new row then print a new line
+                    currentRow = gridSpot.SpotLetter;
+                }
+
+                if (gridSpot.Status == GridSpotStatus.Empty)
+                {
+                    Console.Write($" { gridSpot.SpotLetter }{ gridSpot.SpotLetter } ");
+                }
+                else if (gridSpot.Status == GridSpotStatus.Hit)
+                {
+                    Console.Write(" X ");
+                }
+                else if (gridSpot.Status == GridSpotStatus.Miss)
+                {
+                    Console.Write(" O ");
+                }
+                else
+                {
+                    Console.Write(" ? ");
+                }
+
+
+            }
         }
 
         private static void WelcomeMessage()
