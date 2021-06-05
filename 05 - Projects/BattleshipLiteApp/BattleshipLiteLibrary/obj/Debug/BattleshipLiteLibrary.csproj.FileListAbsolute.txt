@@ -4,3 +4,9 @@ C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\05 - Battleship Proje
 C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\05 - Battleship Project\project\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
 C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\05 - Battleship Project\project\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.dll
 C:\Users\TOMEP\Documents\Personal\TimCorey C# fundamentals\05 - Battleship Project\project\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.pdb
+C:\Users\TOMEP\Documents\Personal\TimCorey C#\05 - Projects\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\BattleshipLiteLibrary.dll
+C:\Users\TOMEP\Documents\Personal\TimCorey C#\05 - Projects\BattleshipLiteApp\BattleshipLiteLibrary\bin\Debug\BattleshipLiteLibrary.pdb
+C:\Users\TOMEP\Documents\Personal\TimCorey C#\05 - Projects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csprojAssemblyReference.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C#\05 - Projects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TOMEP\Documents\Personal\TimCorey C#\05 - Projects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.dll
+C:\Users\TOMEP\Documents\Personal\TimCorey C#\05 - Projects\BattleshipLiteApp\BattleshipLiteLibrary\obj\Debug\BattleshipLiteLibrary.pdb
